@@ -1,0 +1,9 @@
+#references{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+    margin-top: 1em;
+}
+#cards:hover{
+    background-color: lightblue;
+}
