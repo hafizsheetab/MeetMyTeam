@@ -2,6 +2,7 @@ import React from 'react'
 import members from './members'
 import MemberCard from './MemberCard'
 import './MemberCardList.css'
+import Scroll from './Scroll'
 
 export const MemberCardList = () =>{
     const MemberCardArray = members.map(member => <MemberCard user = {member}/>);
@@ -12,7 +13,9 @@ export const MemberCardList = () =>{
                 <h1 className = 'pa5'>Meet Our Team</h1>
             </div>
             <div>
-                {MemberCardArray}
+                {/* <Scroll> */}
+                    {MemberCardArray}
+                {/* </Scroll> */}
             </div>
             
         </div>
