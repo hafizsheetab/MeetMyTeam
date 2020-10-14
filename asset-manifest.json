@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/MeetMyTeam/static/css/main.254e1f1e.chunk.css",
+    "main.js": "/MeetMyTeam/static/js/main.d2df45eb.chunk.js",
+    "main.js.map": "/MeetMyTeam/static/js/main.d2df45eb.chunk.js.map",
+    "runtime-main.js": "/MeetMyTeam/static/js/runtime-main.4a38563c.js",
+    "runtime-main.js.map": "/MeetMyTeam/static/js/runtime-main.4a38563c.js.map",
+    "static/js/2.be7ebba4.chunk.js": "/MeetMyTeam/static/js/2.be7ebba4.chunk.js",
+    "static/js/2.be7ebba4.chunk.js.map": "/MeetMyTeam/static/js/2.be7ebba4.chunk.js.map",
+    "index.html": "/MeetMyTeam/index.html",
+    "precache-manifest.0f4ca3fba85659a153fa41812a10d75e.js": "/MeetMyTeam/precache-manifest.0f4ca3fba85659a153fa41812a10d75e.js",
+    "service-worker.js": "/MeetMyTeam/service-worker.js",
+    "static/css/main.254e1f1e.chunk.css.map": "/MeetMyTeam/static/css/main.254e1f1e.chunk.css.map",
+    "static/js/2.be7ebba4.chunk.js.LICENSE.txt": "/MeetMyTeam/static/js/2.be7ebba4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/MeetMyTeam/static/media/background.685f3202.jpg",
+    "static/media/linkedin.png": "/MeetMyTeam/static/media/linkedin.fd0d5546.png",
+    "static/media/pranto.jpg": "/MeetMyTeam/static/media/pranto.48e0185f.jpg",
+    "static/media/prima_1.jpg": "/MeetMyTeam/static/media/prima_1.47425ad4.jpg",
+    "static/media/shafi.jpg": "/MeetMyTeam/static/media/shafi.59144a6f.jpg",
+    "static/media/sheetab.jpg": "/MeetMyTeam/static/media/sheetab.cd8bfbe2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a38563c.js",
+    "static/js/2.be7ebba4.chunk.js",
+    "static/css/main.254e1f1e.chunk.css",
+    "static/js/main.d2df45eb.chunk.js"
+  ]
+}
